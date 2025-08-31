@@ -3469,39 +3469,12 @@ HR Manager
 ```
 EMERGENCY CONTACTS
 
-IT Support Helpdesk:
-Email: itsupport@company.com
-Phone: +91-XX-XXXX-XXXX
-Extension: 201
-Available: 24/7
+Software Engineer
+Piyush Yadav
+6306867316
+piyush.yadav@alphaxine.com
+piyushyadavrajyadav@gmail.com
 
-HR Department:
-Email: hr@company.com
-Phone: +91-XX-XXXX-XXXX
-Extension: 101
-Available: Mon-Fri, 9 AM - 6 PM
-
-System Administrator:
-Email: admin@company.com
-Phone: +91-XX-XXXX-XXXX
-Emergency: +91-XX-XXXX-XXXX
-Available: Mon-Fri, 9 AM - 6 PM
-
-Finance Department:
-Email: finance@company.com
-Phone: +91-XX-XXXX-XXXX
-Extension: 301
-Available: Mon-Fri, 9 AM - 6 PM
-```
-
-## **Appendix E: Change Log and Version History**
-
-| Version | Date | Changes Made | Updated By |
-|---------|------|--------------|------------|
-| 1.0 | Aug 2025 | Initial manual creation | HR Team |
-| 1.1 | Sep 2025 | Added troubleshooting section | IT Team |
-| 1.2 | Oct 2025 | Updated RBAC permissions | Admin Team |
-| 1.3 | Nov 2025 | Enhanced mobile guidelines | UX Team |
 
 ---
 
@@ -3516,7 +3489,7 @@ This comprehensive user manual provides everything you need to effectively use t
 - **Stay updated** - Check for system updates and new features regularly
 
 **📞 Need Additional Help?**
-If you have questions not covered in this manual, please contact your HR department or IT support team. We're here to help you succeed!
+If you have questions not covered in this manual, please contact piyush.yadav@alphaxine.com / 6306867316!
 
 ---
 
@@ -3526,7 +3499,6 @@ If you have questions not covered in this manual, please contact your HR departm
 - **Title:** Alphaxine ERP HR Module User Manual
 - **Version:** 1.0
 - **Last Updated:** August 31, 2025
-- **Next Review:** November 30, 2025
-- **Prepared By:** HR Technology Team
-- **Approved By:** HR Director
+- **Prepared By:** Piyush Yadav
+
 
