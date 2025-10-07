@@ -965,20 +965,7 @@ The Admin Dashboard displays:
 
 ---
 
-## 16. Keyboard Shortcuts
-
-| Action | Shortcut |
-|--------|----------|
-| Search | `Ctrl + K` or `Cmd + K` |
-| Go to Dashboard | `Alt + D` |
-| Quick Add Employee | `Alt + E` |
-| Logout | `Alt + Q` |
-| Help | `F1` |
-| Refresh Data | `F5` |
-
----
-
-## 17. Appendix
+## 16. Appendix
 
 ### A. Glossary
 
@@ -997,15 +984,8 @@ The Admin Dashboard displays:
 ### B. Contact Information
 
 **Alphaxine Technologies**  
-Email: admin@alphaxine.com  
 Website: www.alphaxine.com  
-Support: support@alphaxine.com  
-
-**System Administrator:**  
-Email: sysadmin@alphaxine.com  
-
-**HR Department:**  
-Email: hr@alphaxine.com  
+tech Support: piyush.yadav@alphaxine.com  
 
 ---
 
