@@ -6,23 +6,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Dashboard Overview](#dashboard-overview)
-4. [Employee Management](#employee-management)
-5. [Leave Management](#leave-management)
-6. [Timesheet Management](#timesheet-management)
-7. [Attendance Management](#attendance-management)
-8. [Payroll Management](#payroll-management)
-9. [CRM Management](#crm-management)
-10. [Department & Designation Management](#department--designation-management)
-11. [Shift Management](#shift-management)
-12. [Reports & Analytics](#reports--analytics)
-13. [System Settings](#system-settings)
-14. [Troubleshooting](#troubleshooting)
-
 ---
 
 ## 1. Introduction
