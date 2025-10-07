@@ -969,13 +969,7 @@ NET SALARY:            ₹44,200
 | Update Profile | Profile Icon → My Profile |
 | Change Password | Profile Icon → Change Password |
 
-### Contact Directory
-| Department | Email | Extension |
-|------------|-------|-----------|
-| HR | hr@alphaxine.com | XXXX |
-| IT Support | support@alphaxine.com | XXXX |
-| Payroll | payroll@alphaxine.com | XXXX |
-| Admin | admin@alphaxine.com | XXXX |
+
 
 ---
 
@@ -1012,17 +1006,7 @@ Congratulations! You now know how to use Alphaxine ERP effectively.
 
 ---
 
-## Appendix: Keyboard Shortcuts
-
-| Action | Windows/Linux | Mac |
-|--------|---------------|-----|
-| Search | Ctrl + K | Cmd + K |
-| Dashboard | Alt + H | Option + H |
-| Apply Leave | Alt + L | Option + L |
-| Help | F1 | F1 |
-| Logout | Alt + Q | Option + Q |
-
 ---
 
 **Need Help? We're Just an Email Away!**  
-📧 support@alphaxine.com
+📧 piyush.yadav@alphaxine.com
