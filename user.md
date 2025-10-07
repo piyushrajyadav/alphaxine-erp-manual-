@@ -6,21 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
 
-1. [Welcome to Alphaxine ERP](#welcome-to-alphaxine-erp)
-2. [Getting Started](#getting-started)
-3. [Your Dashboard](#your-dashboard)
-4. [Managing Your Profile](#managing-your-profile)
-5. [Leave Management](#leave-management)
-6. [Timesheet Management](#timesheet-management)
-7. [Attendance](#attendance)
-8. [Viewing Your Payslip](#viewing-your-payslip)
-9. [Calendar & Holidays](#calendar--holidays)
-10. [Notifications](#notifications)
-11. [Help & Support](#help--support)
-
----
 
 ## 1. Welcome to Alphaxine ERP
 
